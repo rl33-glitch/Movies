@@ -1,0 +1,68 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar {
+    background-color: white;
+  }
+  
+  .icon-md {
+    height: 2.5rem;
+    width: 2.5rem;
+    font-size: 0.9em;
+  }
+  
+  .avatar-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .nav-link {
+    display: block;
+    padding: 0.25rem 0.75rem;
+    color: #676a79;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+      border-color 0.15s ease-in-out;
+  }
+  
+  .btn-light {
+    color: #000;
+    background-color: #eef0f2;
+    border-color: #eef0f2;
+  }
+  
+  .btn {
+    color: #676a79;
+  }
+  
+  main {
+    padding-top: calc(1.5rem + 94px);
+    margin-bottom: 1.5rem;
+  }
+  
+  .avatar-xs {
+    height: 2.1875rem;
+    width: 2.1875rem;
+  }
+  
+  .avatar {
+    height: 3rem;
+    width: 3rem;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .card {
+    max-width: 416px;
+  }
+  
+  .card-header-m {
+    margin: auto 0;
+  }
+  
+  .date {
+    font-size: 13px;
+    color: #65676b;
+  }
+  
